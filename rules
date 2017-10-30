@@ -1,0 +1,10 @@
+Rom -> Engl
+
+N + ADJ -> ADJ + N
+N + N + ADJ -> ADJ + N + N
+
+POS identification rules
+N + a -> The + N
+N + ul -> The + N
+? + </s> -> INTER
+INTER -> DOES + SUBJ + PRED (FARA -es)
